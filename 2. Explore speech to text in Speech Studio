@@ -1,0 +1,9 @@
+1. Select https://aka.ms/mslearn-speech-files to download speech.zip. Open the folder.
+
+2. On the Get started with Speech page, under Speech to text find Real-time speech to text. Select Try out Real-time speech to text.
+
+3. Under Choose audio files, select Browse files and navigate to the folder where you saved the file. Select WhatAICanDo.m4a and then Open.
+
+4. The Speech service transcribes and displays the text in real time. If you have audio on your computer, you can listen to the recording as the text is being transcribed.
+
+5. Review the output, which should have successfully recognized and transcribed the audio into text.
