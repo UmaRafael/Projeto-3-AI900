@@ -1,0 +1,2 @@
+The Azure AI Speech service transcribes speech into text, and text into audible speech. You might use AI Speech to create an application that can transcribe meeting notes or generate text from the recording of interviews.
+In this project, you will try out the capabilities of Azure AI Speech using Azure AI Speech Studio.
