@@ -1,13 +1,13 @@
 You can use the Speech service by creating either a Speech resource or an Azure AI services resource.
+In this project, you will create an AI Speech resource, unless you already have a resource that you can use.
 
-In this exercise, you will create an AI Speech resource, unless you already have a resource that you can use.
+1. In another browser tab, open Azure AI Speech Studio, signing in with your Microsoft account.
 
-In another browser tab, open Azure AI Speech Studio, signing in with your Microsoft account.
-
-Select Settings then Create a resource. Configure it with the following settings:
+2. Select Settings then Create a resource. Configure it with the following settings:
 Name of new resource: Enter a unique name.
 Subscription: Your Azure subscription.
 Region: Select a supported region.
 Pricing tier: Free FO (if available, otherwise select Standard S0).
 Resource group: Select or create a resource group with a unique name.
-Select Create resource. Wait until the resource has been created and then select Use resource. The Get started with Speech page is displayed.
+
+3.Select Create resource. Wait until the resource has been created and then select Use resource. The Get started with Speech page is displayed.
